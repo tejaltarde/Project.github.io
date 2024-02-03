@@ -1,0 +1,121 @@
+
+.depicter-revert .depicter-45-element-5{
+	font-size:15px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Open Sans";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-45-element-3{
+	font-size:24px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Open Sans";
+	font-weight:300;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-45-section-1 .depicter-section-background{
+	background-color:#2D2F31;
+}
+.depicter-revert .depicter-45-element-15{
+	font-size:15px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Open Sans";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-45-element-14{
+	font-size:24px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Open Sans";
+	font-weight:300;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-45-section-12 .depicter-section-background{
+	background-color:#2D2F31;
+}
+.depicter-revert .depicter-45-element-23{
+	font-size:15px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Open Sans";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-45-element-22{
+	font-size:24px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Open Sans";
+	font-weight:300;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-45-section-20 .depicter-section-background{
+	background-color:#2D2F31;
+}
+.depicter-revert .depicter-45-element-31{
+	font-size:15px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Open Sans";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-45-element-30{
+	font-size:24px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Open Sans";
+	font-weight:300;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-45-section-28 .depicter-section-background{
+	background-color:#2D2F31;
+}
+
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert .depicter-45-element-5{
+	color:#BFBFBF;
+	font-family:"Montserrat";
+}
+.depicter-revert .depicter-45-element-3{
+	font-family:"Montserrat";
+}
+.depicter-revert .depicter-45-element-15{
+	color:#BFBFBF;
+	font-family:"Montserrat";
+}
+.depicter-revert .depicter-45-element-14{
+	font-size:24px;
+	font-family:"Montserrat";
+}
+.depicter-revert .depicter-45-element-23{
+	color:#BFBFBF;
+	font-family:"Montserrat";
+}
+.depicter-revert .depicter-45-element-22{
+	font-family:"Montserrat";
+}
+.depicter-revert .depicter-45-element-31{
+	color:#BFBFBF;
+	font-family:"Montserrat";
+}
+.depicter-revert .depicter-45-element-30{
+	font-size:24px;
+	font-family:"Montserrat";
+}
+
+}

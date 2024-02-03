@@ -1,0 +1,35 @@
+
+.depicter-revert.depicter-11 .depicter-section{
+	min-height:100px;
+}
+.depicter-revert .depicter-11-section-1 .depicter-section-background{
+	background-color:#2D2F31;
+}
+.depicter-revert .depicter-11-element-4{
+	font-size:15px;
+	color:#000000;
+	font-family:"Open Sans";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-11-section-3 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert.depicter-11 .depicter-section{
+	min-height:100px;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert.depicter-11 .depicter-section{
+	min-height:100px;
+}
+
+}
