@@ -11,29 +11,11 @@
 	<atom:link href="https://tejaltarde.github.io/Project.github.io//comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tejaltarde.github.io/Project.github.io/</link>
 	<description></description>
-	<lastBuildDate>Tue, 16 Jan 2024 06:27:49 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Feb 2024 09:14:47 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.2</generator>
-	<item>
-		<title>
-		Comment on Revolutionizing Recruitment: How Search-In Transforms Hiring ProcessHello world! by A WordPress Commenter		</title>
-		<link>https://tejaltarde.github.io/Project.github.io//2023/10/10/hello-world/#comment-1</link>
-
-		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Tue, 10 Oct 2023 19:16:56 +0000</pubDate>
-		<guid isPermaLink="false">https://tejaltarde.github.io/Project.github.io//?p=1#comment-1</guid>
-
-					<description><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from &lt;a href=&quot;https://en.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
-			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
-Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>

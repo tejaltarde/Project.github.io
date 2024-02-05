@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://tejaltarde.github.io/Project.github.io//</loc>
-		<lastmod>2024-01-30T07:04:04+00:00</lastmod>
+		<lastmod>2024-02-05T07:16:03+00:00</lastmod>
 		<image:image>
 			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Frame-4.png</image:loc>
 		</image:image>
@@ -59,8 +59,48 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://tejaltarde.github.io/Project.github.io//company/</loc>
+		<lastmod>2024-02-04T18:50:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/ic_arrow-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Image-16.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Logo-6.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Logo-7.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Logo-9.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Logo-11.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Logo-12.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Logo-10.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Logo-15.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Logo-13.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Logo-14.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Logo-16.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://tejaltarde.github.io/Project.github.io//pricing/</loc>
-		<lastmod>2024-01-29T15:20:16+00:00</lastmod>
+		<lastmod>2024-02-04T18:46:08+00:00</lastmod>
 		<image:image>
 			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/ic_check-2.png</image:loc>
 		</image:image>
@@ -162,46 +202,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Logo-16.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Logo-6.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Logo-7.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Logo-9.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Logo-11.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Logo-12.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Logo-10.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Logo-15.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Logo-13.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Logo-14.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Logo-16.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://tejaltarde.github.io/Project.github.io//company/</loc>
-		<lastmod>2024-01-29T14:24:14+00:00</lastmod>
-		<image:image>
-			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/ic_arrow-3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Image-16.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Logo-6.png</image:loc>
