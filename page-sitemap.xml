@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://tejaltarde.github.io/Project.github.io//</loc>
-		<lastmod>2024-02-07T04:51:28+00:00</lastmod>
+		<lastmod>2024-02-07T13:59:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Frame-4.png</image:loc>
 		</image:image>
@@ -57,13 +57,10 @@
 		<image:image>
 			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Item-3.png</image:loc>
 		</image:image>
-		<image:image>
-			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/Image-11.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://tejaltarde.github.io/Project.github.io//pricing/</loc>
-		<lastmod>2024-02-05T12:21:29+00:00</lastmod>
+		<lastmod>2024-02-07T15:53:38+00:00</lastmod>
 		<image:image>
 			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/ic_check-2.png</image:loc>
 		</image:image>
@@ -199,7 +196,7 @@
 	</url>
 	<url>
 		<loc>https://tejaltarde.github.io/Project.github.io//company/</loc>
-		<lastmod>2024-02-05T11:32:57+00:00</lastmod>
+		<lastmod>2024-02-07T14:24:36+00:00</lastmod>
 		<image:image>
 			<image:loc>https://tejaltarde.github.io/Project.github.io//wp-content/uploads/2024/01/ic_arrow-3.png</image:loc>
 		</image:image>
