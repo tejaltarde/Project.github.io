@@ -12,7 +12,7 @@
 	<atom:link href="https://tejaltarde.github.io/Project.github.io//category/post/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tejaltarde.github.io/Project.github.io/</link>
 	<description></description>
-	<lastBuildDate>Thu, 08 Feb 2024 17:09:08 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 Feb 2024 18:29:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -76,11 +76,11 @@
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-0d72fef e-con-full e-flex e-con e-child" data-id="0d72fef" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
-				<div class="elementor-element elementor-element-49ca1a8 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="49ca1a8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-49ca1a8 elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-text-editor" data-id="49ca1a8" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 							<p>Custom</p>						</div>
 				</div>
-				<div class="elementor-element elementor-element-3e7bd8e elementor-widget elementor-widget-text-editor" data-id="3e7bd8e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-3e7bd8e elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="3e7bd8e" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 							<p>Oct 3 · 7 min read</p>						</div>
 				</div>
